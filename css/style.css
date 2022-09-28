@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+}
+header{
+    background-color: darkolivegreen;
+    color: white;
+    font-size: 40px;
+    text-align: center;
+}
+.section{
+   overflow: hidden;
+}
+.menu{
+    width: 20%;
+    height: 400px;
+    background-color: blue;
+    float: left;
+}
+.main{
+    width: 60%;
+    height: 400px;
+    background-color: blueviolet;
+    text-align: center;
+    float: left;
+}
+.ads{
+    width: 20%;
+    height: 400px;
+    background-color: darkgreen;
+    text-align: center;
+    float: left;
+}
+.top{
+    height: 50%;
+    background-color: darksalmon;
+    text-align: center;
+}
+.bottom{
+    height: 50%;
+    background-color: chocolate;
+    text-align: center;
+}
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
